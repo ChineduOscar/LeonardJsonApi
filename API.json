@@ -1,0 +1,80 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Echoes of the Invisible",
+      "overview": "In the dark room of life we hear important echo messages coming from an unknown source, so difficult to decipher, echoes of the invisible, a poetry collection of solutions, light and revelations. In the book, the poet stretched his hands wide in discussing virtually all angles of human life, emotional, social, moral, and economical aspects of life. Echoes of the invisible; the writer used himself as a point of contact to people out there. It is magical in the sense that whoever picks this book must find a poem that resolves, discusses, consoles and confirms his current situation. He calls it the healing poem or the poems of revival. The wordings in a way tried to reconcile the vices in the society; it is a book for all, as it is more than just a poetic work of art.",
+      "image": "/images/echoes_of_the_invisible.png",
+      "ebookSite": ["Amazon", "Okadabooks", "Kobobooks", "scribd"],
+      "ebookLinks": [
+        "https://www.amazon.com/Echoes-Invisible-Leonard-D-Great-ebook/dp/B079KGZLK1",
+        "https://m.okadabooks.com/book/reader/19020/11?is_preview=yes",
+        "https://www.kobo.com/ww/en/ebook/echoes-of-the-invisible-1",
+        "https://www.scribd.com/book/524235247/Echoes-of-the-Invisible"
+      ],
+      "hardCopySites": [
+        "Google Books",
+        "Amazon",
+        "Imusic",
+        "Better World Books",
+        "Saxo",
+        "Bokus",
+        "Exlibris",
+        "Tales"
+      ],
+      "hardCopyLinks": [
+        "https://books.google.com.ng/books?id=sLVEDwAAQBAJ&source=gbs_book_other_versions",
+        "https://www.amazon.com/Echoes-Invisible-Leonard-D-Great/dp/1546215700",
+        "https://imusic.co/books/9781546215707/leonard-d-great-2017-echoes-of-the-invisible-paperback-book",
+        "https://www.betterworldbooks.com/product/detail/echoes-of-the-invisible-9781546215707",
+        "https://www.saxo.com/dk/echoes-of-the-invisible_leonard-d-great_paperback_9781546215707",
+        "https://www.bokus.com/bok/9781546215707/echoes-of-the-invisible/",
+        "https://www.exlibris.ch/fr/livres/livres-anglais/leonard-d-great/echoes-of-the-invisible/id/9781546215707/",
+        "https://tales.dk/echoes-of-the-invisible_leonard-d-great_9781546215707"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Echoes of Bullets",
+      "overview": "Echoes of Bullets is a poetry collection that range from the causes of war; to war and the aftermaths of war. Coming when the country combats terrible challenges, this collection echoes the voice of the new generation who did not face the horrible experience of the past civil war. Through this book, this new generation is placed at the middle of war and dispassionately pictured through a pair of lenses: the “good” and “bad” of war.",
+      "image": "/images/echoes_of_bullet.png",
+      "ebookSite": ["Pheonix award books", "Okadabooks", "Amazon"],
+      "ebookLinks": [
+        "https://pabpub.com/books/997/",
+        "https://m.okadabooks.com/book/about/echoes_of_bullets/47231",
+        "https://www.amazon.in/Echoes-Bullets-Leonard-Ugwu-ebook/dp/B09V329BCG"
+      ],
+      "hardCopySites": [
+        "Pheonix award books",
+        "Spine and Label",
+        "Roving Heights",
+        "Amazon"
+      ],
+      "hardCopyLinks": [
+        "https://pabpub.com/books/997/",
+        "https://www.spineandlabel.com/9789785922813-spine-label-abuja%20?tag=Ho&sort=p.model&order=ASC&limit=50",
+        "https://rhbooks.com.ng/product/echoes-of-bullets/",
+        "https://www.amazon.com/Echoes-Bullets-Leonard-Ugwu-ebook/dp/B09V329BCG/ref=mp_s_a_1_1?keywords=echoes+of+bullets+by+Leonard+ugwu&qid=1677248689&sr=8-1"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Babel and Boys",
+      "overview": "Tunde and Babel are best of friends, yet Tunde assassinates Babel’S father in his presence and fakes disappearance out of the country. Years later, he finds himself in Lagos overwhelmed by love and self-discovery. Why did Tunde commit such an atrocity? How long will it take karma to strike? A tale full of modern motifs of love, reunion, revenge, betrayal, disappointment, uncertainty, self-discovery, shame and many more. Babel and Boys is a reflection of the African society. One for teens; one for youths; one for family; and one for all.",
+      "image": "/images/babel-and-boys.png",
+      "ebookSite": ["Amazon", "Okadabooks", "Pheonix award books", "Bam Books"],
+      "ebookLinks": [
+        "https://www.amazon.com/BABEL-BOYS-Leonard-Ugwu-ebook/dp/B0BW838W1T/ref=mp_s_a_1_1?keywords=babel+and+boys+by+leonard+ugwu&qid=1678439196&sr=8-1",
+        "https://store.okadabooks.com/book/about/babel_and_boys/52049",
+        "https://pabpub.com/books/1375",
+        "https://bambooks.io/book/share/babel-and-boys/15933"
+      ],
+      "hardCopySites": ["Barnes and Nobel", "Amazon", "Roving Heights"],
+      "hardCopyLinks": [
+        "https://www.barnesandnoble.com/w/babel-and-boys-leonard-ifeanyi-ugwu-jr/1143102605",
+        "https://www.amazon.com/gp/aw/d/B0BW28MJXF/ref=tmm_pap_swatch_0?ie=UTF8&qid=1678439196&sr=8-1",
+        "https://pabpub.com/books/1375"
+      ]
+    }
+  ]
+}
